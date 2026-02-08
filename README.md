@@ -6,7 +6,7 @@ Data Scientist | Data Analyst
 
 Data scientist and analyst with experience delivering machine learning models, automated classification workflows, and multi-agency reporting solutions across the Queensland Government. Strong Python, SQL, and visualisation skills, with practical experience in EDA, model development, Spark-based analytics, and transforming complex data into insights for senior leaders. Backed by a Master of Data Science and an Electrical Engineering and QA background, I bring analytical depth, reliability, and a collaborative mindset to solving real-world problems.
 
-* 🌍  I'm based in Brisbane
+* 🌍  I'm based in Brisbane, Australia
 * ✉️  You can contact me at [ashama.plipat@gmail.com](mailto:ashama.plipat@gmail.com)
 
 <p align="left">
