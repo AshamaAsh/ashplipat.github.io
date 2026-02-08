@@ -15,4 +15,3 @@ In this project, I:
 - Parsed and extracted relevant information from HTML content
 - Cleaned and structured the data into a usable format
 - Prepared the dataset for downstream analysis or reporting
-
